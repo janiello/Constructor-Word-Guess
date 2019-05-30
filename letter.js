@@ -1,5 +1,5 @@
 var letter = {
-    character: "a",
+    character: "",
     isGuessed: false,
     showLetter: function() {
         if (this.isGuessed === true) {
